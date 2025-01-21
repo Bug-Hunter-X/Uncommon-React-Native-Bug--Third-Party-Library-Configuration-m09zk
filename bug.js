@@ -1,0 +1,1 @@
+This error occurs when you are using a third party library and you have not properly configured it or linked it with your project. For example, you may get an error like this if you have not installed the react-native-vector-icons library correctly.
